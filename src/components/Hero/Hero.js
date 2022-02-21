@@ -16,7 +16,7 @@ const Hero = (props) => (
         <SectionText>
         Nos centramos en la optimización de los motores de búsqueda y el desarrollo web para proporcionar a nuestros clientes las <Destacado> soluciones más viables. </Destacado>
         </SectionText>
-        
+        <Button>Saber más</Button>
       </LeftSection>
     </Section>
   </>
